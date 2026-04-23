@@ -21,4 +21,4 @@ and render the result as an interactive 3D surface.
 4. Download the interactive HTML
 
 ## Model
-U-Net trained on Sentinel-1 GRD imagery with VV, VH, and cross-polarization ratio channels.
+U-Net trained on Sentinel-1 GRD imagery with VV, VH, and cross-polarization ratio channels." " 
