@@ -108,4 +108,4 @@ def train(epochs=30, batch_size=8, lr=1e-4,
 
 
 if __name__ == "__main__":
-    train(epochs=30, batch_size=8, lr=1e-4, masks_path=None)
+    train(epochs=1, batch_size=8, lr=1e-4, masks_path=None)
