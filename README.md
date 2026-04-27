@@ -1,12 +1,14 @@
 ---
+---
 title: SAR Flood Detector
 emoji: 🛰
 colorFrom: blue
 colorTo: gray
-sdk: docker
-sdk_version: 1.32.0
+sdk: streamlit
+sdk_version: "1.56.0"
 app_file: app.py
 pinned: false
+---
 ---
 
 # SAR Deep Learning — Flood Detection + 3D Visualization

@@ -8,4 +8,5 @@ Pillow
 tqdm
 matplotlib
 python-dotenv
-GDAL==3.10.3
+torch
+torchvision
