@@ -2,7 +2,7 @@ streamlit
 numpy
 torch
 torchvision
-GDAL
+GDAL==3.10.3
 scipy
 scikit-image
 plotly
