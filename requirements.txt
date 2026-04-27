@@ -2,7 +2,7 @@ streamlit
 numpy
 torch
 torchvision
-rasterio
+GDAL
 scipy
 scikit-image
 plotly
