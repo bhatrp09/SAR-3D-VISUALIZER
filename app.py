@@ -6,6 +6,7 @@ from pathlib import Path
 
 sys.path.insert(0, "src")
 from preprocess import build_3channel
+from predict import predict_full_image
 from visualize import make_3d_surface
 
 # ── Page config ──────────────────────────────────────────────────────────────
