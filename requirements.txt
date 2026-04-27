@@ -1,8 +1,6 @@
 streamlit
 numpy
-torch
-torchvision
-GDAL==3.10.3
+rasterio==1.5.0
 scipy
 scikit-image
 plotly
@@ -10,3 +8,4 @@ Pillow
 tqdm
 matplotlib
 python-dotenv
+GDAL==3.10.3
